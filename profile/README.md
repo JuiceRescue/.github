@@ -1,4 +1,4 @@
-# Welcome to the JuiceboxRescue Organization.
+# Welcome to the JuiceRescue Organization.
 
 On 10/2/2024, Enel X Way announced that US operations for their residential and commercial EV chargers would cease, effective immediately.
 
@@ -13,4 +13,4 @@ This group is focused on keeping the hardware owned by countless individuals and
 
 ## Want to help? 
 
-Join us on [Discord](https://discord.gg/rBgbGZsA), contribute to discussions, research, and planning in our [Wiki](https://github.com/JuiceboxRescue/JuiceboxRescueWiki/wiki), or contribute to the repositories listed below.
+Join us on [Discord](https://discord.gg/rBgbGZsA), contribute to discussions, research, and planning in our [Wiki](https://github.com/JuiceRescue/JuiceboxRescueWiki/wiki), or contribute to the repositories listed below.
